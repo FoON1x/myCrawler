@@ -1,0 +1,11 @@
+[project]
+name = "mycrawler"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "beautifulsoup4>=4.13.4",
+    "ipykernel>=6.29.5",
+    "scrapy>=2.13.3",
+]
